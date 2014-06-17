@@ -25,9 +25,9 @@ The decrypted text will be HOWAREYOUDOINGDUDE.
 
 Samples:
 
-Input : 				Output:
-hiemanshu				hmsianenu
-helloworld				hlodeor*lwl*
-ardclnoio*diso*				androidiscool
+Input : 	Output:
+hiemanshu       hmsiahenu
+helloworld      hlodeor*lwl*	
+ardclnoio*diso*	androidiscool
 
 
